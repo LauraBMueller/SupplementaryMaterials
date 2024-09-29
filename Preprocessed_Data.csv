@@ -1,0 +1,8 @@
+﻿ParticipantID,BGL_baseline,BGL_15,BGL_30,BGL_45,BGL_60,BGL_90,BGL_120,BGL_150,BGL_180,HR_baseline,HR_peak,HR_dip,SysBP_baseline,SysBP_peak,SysBP_dip,DiaBP_baseline,DiaBP_peak,DiaBP_dip,BT_baseline,BT_peak,BT_dip,EHI_LQ,MRC_total,MVC_Grip Strength,BI-ADL_total,MoCA_total,Age,Biological Sex,Meal Duration,Preexisting Conditions,Medication,Menstrual Phase,Average cycle legth
+1,80,130,147,138,146,197,184,166,129,80,84,86,113,113,116,72,80,84,36.3,36.2,36.4,90,15,110,20,27,37,Male,10,Yes,Yes,,
+2,86,126,98,99,96,93,87,85,81,68,65,65,116,120,118,77,68,68,36.4,36.4,36.4,81,15,250,20,29,30,Male,7,No,No,,
+3,89,125,152,178,160,163,101,76,104,76,79,73,126,125,138,85,82,81,36.4,36.4,36.5,91.66666667,15,176.67,20,30,32,Male,10,No,No,,
+4,111,141,156,111,182,153,125,115,102,65,70,75,112,111,115,71,67,69,36.4,36.5,36.5,81.81818182,15,160,20,29,57,Female,10,No,No,Post Menopause,NA
+5,100,119,170,133,135,140,120,107,87,58,62,55,115,125,129,69,63,73,36.5,36.5,36.5,58.33333333,15,496.66,20,28,65,Male,10,No,"Ramiril 5mg/day,  10 mg MTX/week, vitamn d and magnesium",,
+6,103,105,125,139,139,101,99,121,114,69,68,66,162,144,156,86,85,84,36.5,36.5,36.5,18.18,15,688.33,20,29,57,Male,5,Hypertension,"Mounjaro (Tirzepatid) 5mg/week, Olmesartan 20mg/day, Hydrochlorothiazid 12.5mg/day, Niurendipin 20 mg/day",,
+7,97,126,155,130,106,98,133,113,116,95,77,98,103,132,125,77,90,87,35.4,35.4,35.4,56.52173913,15,150,20,30,22,Female,9,No,No,follicular phase,24.5 days
